@@ -1,9 +1,23 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="g1URzCCbqYptWRjFn7HZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1030" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s7GuHbFnQa1iIxGnBfUh-5" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" value="&lt;div&gt;Apple iMac&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="50" x="220" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="s7GuHbFnQa1iIxGnBfUh-6" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.ibm_tower;" value="IBM server" vertex="1">
+          <mxGeometry height="77" width="42" x="470" y="194" as="geometry" />
+        </mxCell>
+        <mxCell id="s7GuHbFnQa1iIxGnBfUh-7" edge="1" parent="1" source="s7GuHbFnQa1iIxGnBfUh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.075;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=0;startSize=10;endSize=11;" target="s7GuHbFnQa1iIxGnBfUh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7GuHbFnQa1iIxGnBfUh-8" connectable="0" parent="s7GuHbFnQa1iIxGnBfUh-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=28;" value="X" vertex="1">
+          <mxGeometry relative="1" x="0.2129" y="-1" as="geometry">
+            <mxPoint x="37" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
