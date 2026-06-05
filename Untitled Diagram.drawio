@@ -13,18 +13,6 @@
         <mxCell id="z0fqkPYA5qzKYMgXjRuS-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=17;" value="&lt;div align=&quot;left&quot;&gt;・1&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;・2&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;・3&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;・4&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;・5&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;・6&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;・7&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;・8&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="360" width="60" x="540" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="z0fqkPYA5qzKYMgXjRuS-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;div&gt;Receive&lt;/div&gt;&lt;div&gt;&amp;nbsp;(RX)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="39" width="150" x="610" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="z0fqkPYA5qzKYMgXjRuS-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;div&gt;Transmit&lt;/div&gt;&lt;div&gt;&amp;nbsp;(TX)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="39" width="100" x="8" y="154.25" as="geometry" />
-        </mxCell>
-        <mxCell id="z0fqkPYA5qzKYMgXjRuS-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;div&gt;Transmit&lt;/div&gt;&lt;div&gt;&amp;nbsp;(TX)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="39" width="100" x="640" y="160" as="geometry" />
-        </mxCell>
-        <mxCell id="z0fqkPYA5qzKYMgXjRuS-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;div&gt;Receive&lt;/div&gt;&lt;div&gt;&amp;nbsp;(RX)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="39" width="100" x="8" y="242" as="geometry" />
-        </mxCell>
         <mxCell id="z0fqkPYA5qzKYMgXjRuS-58" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" value="" vertex="1">
           <mxGeometry height="118" width="60" x="100" y="242" as="geometry" />
         </mxCell>
